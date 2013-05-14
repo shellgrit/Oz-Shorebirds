@@ -1,0 +1,10 @@
+strong      {font-weight: bold;}
+italic		{font-style:  italic;}
+
+.browseList  {font-size: 80%;}
+.keyList     {font-size: 80%;}
+.x-list-item {font-size: 90%;}
+
+.clsText    {font-size: 80%; text-align: left; margin: 5px;}
+
+.clsDetail  {font-size: 80%; text-align: center;}
